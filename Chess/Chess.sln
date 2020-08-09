@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chess", "Chess.pyproj", "{626F559C-5BF9-4EF8-A7CD-D7AAC34B0CE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626F559C-5BF9-4EF8-A7CD-D7AAC34B0CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626F559C-5BF9-4EF8-A7CD-D7AAC34B0CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4129D5E0-3036-415A-8D22-1AD0674CE736}
+	EndGlobalSection
+EndGlobal
